@@ -1,6 +1,8 @@
 # De-AI Writing Skill (English)
 
-Use this as a **Cursor rule**, **custom instruction**, or **Agent Skill** body. Goal: outputs read like a human draft—messy, concrete, emotionally honest—not like a polished outline filled in by a template.
+**Canonical copy:** [`SKILL.zh-CN.md`](SKILL.zh-CN.md) — it includes the author’s **full curated exemplars** (bad vs good blocks, long project write‑up, investment‑style sample, etc.) copied from the public WeChat SOP. **Do not substitute** those with this shortened English note.
+
+Use this file only if you need a **brief English-only** reminder. Prefer pasting the Chinese skill when quality of tone matters.
 
 ## When to use
 

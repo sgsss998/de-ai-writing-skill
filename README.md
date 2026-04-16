@@ -2,6 +2,8 @@
 
 **English | [简体中文](README.zh-CN.md)**
 
+![de-ai-writing-skill cover](./cover-de-ai-writing-skill-v1.png)
+
 A small, copy-paste **Agent Skill / system prompt** pack to make LLM drafts read less like “AI slop”: fewer stacked headings, longer flowing paragraphs, concrete detail first, honest tone—closer to how people actually write.
 
 Companion to **[AI-Word-Skill](https://github.com/sgsss998/AI-Word-Skill)** (preserve Word layout when editing). This repo is about **wording and rhythm**, not document structure in Word.
@@ -64,3 +66,10 @@ Issues and PRs welcome (language tweaks, extra trigger phrases, platform-specifi
 ## License
 
 MIT — see [`LICENSE`](LICENSE).
+
+---
+
+WeChat: `soplaoming`  
+| WeChat QR | Payment QR |
+|---|---|
+| ![WeChat QR](./wechat-qrcode.jpg) | ![Payment QR](./wechat-pay-qrcode.jpg) |

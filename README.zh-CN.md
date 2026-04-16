@@ -2,6 +2,8 @@
 
 **[English](README.md) | 简体中文**
 
+![去AI味写作 Skill 封面](./cover-de-ai-writing-skill-v1.png)
+
 一套可复制粘贴的 **Agent Skill / 系统提示**：让模型少写「小标题 + 短段 + 连接词表演」，多写**具体细节、长段流动、坦诚语气**，读起来更像人写的初稿。
 
 与 **[AI-Word-Skill](https://github.com/sgsss998/AI-Word-Skill)** 并列：**AI-Word-Skill** 管 Word 里怎么改才不掉版式；**本仓库**管模型**怎么写**才不像 AI 腔。可叠加使用。
@@ -54,3 +56,10 @@
 ## 许可
 
 MIT — 见 [`LICENSE`](LICENSE)。
+
+---
+
+微信号：`soplaoming`  
+| 微信二维码 | 收款码 |
+|---|---|
+| ![微信二维码](./wechat-qrcode.jpg) | ![收款码](./wechat-pay-qrcode.jpg) |
